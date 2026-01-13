@@ -11,7 +11,7 @@
 
 - TCG Card Shop Simulator 🎴
 - Supermarket Simulator AND Supermarket Together 🛒
-- Gorilla Tag (Didn't really tried much) 🦍
+- R.E.P.O 🪫
 - And others games i kinda forgot 😓
 
 <hr>
