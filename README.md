@@ -5,4 +5,13 @@
 - I only know the basic for Luau, C++ and JavaScript. 😮‍💨
 - I'm also a beginner to C# and i'm tryna learn more about cheating with it ! 😁
 
-<hr style="border: 4px solid #444;">
+<hr>
+
+## Some games i made cheats on : 
+
+- TCG Card Shop Simulator 🎴
+- Supermarket Simulator AND Supermarket Together 🛒
+- Gorilla Tag (Didn't really tried much) 🦍
+- And others games i kinda forgot 😓
+
+<hr>
